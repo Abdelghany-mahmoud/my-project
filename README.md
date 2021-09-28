@@ -1,2 +1,2 @@
-# my-projrct
+# my-project
 This is my first project..
